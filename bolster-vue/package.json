@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.0.0",
     "core-js": "^2.6.11",
     "firebase": "^7.9.3",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-backtotop": "^1.6.1",
     "vue-carousel": "^0.18.0",
     "vue-toastification": "^0.8.0",
